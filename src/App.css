@@ -1,0 +1,37 @@
+.container {
+  background-color: black;
+  height: 1500px;
+}
+
+h1 {
+  background-color: rgb(216, 19, 28);
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 200px;
+  height: 40px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 1200px;
+  margin-top: none;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #04aa6d;
+  color: white;
+  padding: 8px 11px 20px;
+  margin-left: 1200px;
+  border: none;
+  cursor: pointer;
+  width: 5%;
+  height: 10px;
+  text-align: auto;
+}
+
+button:hover {
+  opacity: 0.8;
+}
